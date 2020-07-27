@@ -9,7 +9,7 @@ vsphere_datastore = "disk3-server100"
 vsphere_resource_pool = "192.168.10.100/Resources"
 vsphere_network = "VLAN10"
 vsphere_virtual_machine_template = "rke-template"
-vsphere_virtual_machine_name = "rke-master-1"
+vsphere_virtual_machine_name_deploy = "rke-master-1"
 
 # Infor Deploy VPS
 guest_vcpu = "1"
